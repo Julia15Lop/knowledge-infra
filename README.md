@@ -20,6 +20,33 @@ Un equipo que entiende lo que construye, y por qué, trabaja mejor, escala más 
 
 ---
 
+
+### Funcionalidades mínimas 
+
+📒 Crear y guardar notas en Markdown
+
+🖥️ Interfaz web simple con React o HTML+JS
+
+🗃️ Almacenamiento local o archivo JSON (sin base de datos al principio)
+
+🛠️ Posible despliegue estático (GitHub Pages, Netlify) o local
+
+✍️ Soporte para edición de notas y vista previa
+
+---
+
+### 🔧 ¿Qué stack usaremos?
+
+Frontend --> React con Vite
+
+Almacenamiento --> LocalStorage o archivo JSON simulando DB
+
+Estilos --> CSS
+
+Despliegue --> GitHub Pages o Netlify
+
+---
+
 ## 🧠 Personal Knowledge Infrastructure
 
 As an engineer with a background in education, I care deeply about **how knowledge is structured, shared, and remembered**.
